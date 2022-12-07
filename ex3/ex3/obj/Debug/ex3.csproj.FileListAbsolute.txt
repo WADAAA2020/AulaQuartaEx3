@@ -1,0 +1,11 @@
+C:\Users\mateus.agwada\source\repos\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\mateus.agwada\source\repos\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\mateus.agwada\source\repos\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\mateus.agwada\source\repos\ex3\ex3\obj\Debug\ex3.pdb
